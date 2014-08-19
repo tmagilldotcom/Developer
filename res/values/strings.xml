@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">Developer</string>
+    <string name="sample_heading">Welcome!</string>
 	<string name="edit_message">Enter a String</string>
 	<string name="button_send">Send</string>
     <string name="action_settings">Settings</string>

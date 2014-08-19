@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+@SuppressWarnings("unused")
 public class MainActivity extends ActionBarActivity {
 
 	@Override
